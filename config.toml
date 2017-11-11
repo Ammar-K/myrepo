@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Reliability Elite Program"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
