@@ -29,12 +29,12 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "Reliability Elite Program"
 
 		[params.navigation.links]
 			about     = "About"
-			services  = "Services"
-			portfolio = "Resources"
+			services  = "Registertion"
+			portfolio = "Courses"
 			contact   = "Contact"
 
 
@@ -43,7 +43,7 @@ googleAnalytics = ""
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Be a leader in reliability"
 		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Register in LMS"
+		buttonText = "[Register in LMS](//google.com)"
 
 
 	# About section
