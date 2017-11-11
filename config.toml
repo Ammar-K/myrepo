@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Reliability Elite Program"
-theme = "hugo-creative-theme"
+theme = "Reliability Elite Program"
 googleAnalytics = ""
 
 [params]
